@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheTechMoghul
 - 👀 I’m interested in networking, resourcing and collaborating with others
 - 🌱 I’m currently learning Python, Azure and Javascript
-- 💞️ I’m looking to collaborate on projrcts on these modules
+- 💞️ I’m looking to collaborate on projects on these modules and learn from others
 - 📫 How to reach me ruth.golde15@gmail.com
 
 <!---
